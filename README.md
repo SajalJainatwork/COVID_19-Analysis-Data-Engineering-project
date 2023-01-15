@@ -1,4 +1,4 @@
-# COVID19-Analysis-Data-Engineering-project
+# COVID 19-Analysis-Data-Engineering-project
 
 https://aws.amazon.com/covid-19-data-lake/
 
