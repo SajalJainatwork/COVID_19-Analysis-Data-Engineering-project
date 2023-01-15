@@ -14,6 +14,7 @@ https://aws.amazon.com/blogs/big-data/exploring-the-public-aws-covid-19-data-lak
 
 [Dataset]()
 
-![covid](https://user-images.githubusercontent.com/106689439/212536139-060a1975-65c8-4baf-8771-aad9a5a9bab8.jpg)
+![covid1](https://user-images.githubusercontent.com/106689439/212536320-b7cfa5e0-8715-48b0-96c3-75e5f57a5965.jpg)
+
 
 
