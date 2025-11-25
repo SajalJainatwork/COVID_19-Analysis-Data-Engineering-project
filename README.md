@@ -1,3 +1,5 @@
+![covid](https://github.com/user-attachments/assets/2e1747b3-d800-4191-9a9c-74477d574e75)
+
 # COVID 19-Analysis-Data-Engineering-project
 
 ## Introduction 
