@@ -1,4 +1,4 @@
-![c19](https://github.com/user-attachments/assets/8a670bf8-7511-4de9-8894-59476a19f6dc)
+<img width="1273" height="716" alt="covid19" src="https://github.com/user-attachments/assets/c268e528-d1de-4057-a8be-23936ceb53e1" />
 
 # COVID 19-Analysis-Data-Engineering-project
 
